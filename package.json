@@ -37,7 +37,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "npm-watch": "^0.5.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.5.0",
     "sqlite3": "^4.0.6"
   }
 }
